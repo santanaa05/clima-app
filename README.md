@@ -75,7 +75,7 @@ expo start
 
 📄 Licença
 
-Este projeto está sob a licença GNU. Consulte o arquivo LICENSE para mais detalhes.
+Este projeto está sob a licença GNU General Public License v3.0. Consulte o arquivo LICENSE para mais detalhes.
 
 🌟 Se você gostou deste projeto, dê uma estrela! 🌟
 
