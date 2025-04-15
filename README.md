@@ -43,7 +43,7 @@ npm install
 
 	3.	Instale os pacotes expo-location e @expo/vector-icons:
 
-expo install expo-location @expo/vector-icons
+npx expo install expo-location @expo/vector-icons
 
 
 	4.	Adicione sua chave de API:
@@ -75,7 +75,7 @@ expo start
 
 📄 Licença
 
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+Este projeto está sob a licença GNU. Consulte o arquivo LICENSE para mais detalhes.
 
 🌟 Se você gostou deste projeto, dê uma estrela! 🌟
 
