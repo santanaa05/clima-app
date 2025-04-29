@@ -32,7 +32,7 @@ npm install -g expo-cli
 
 	1.	Clone o repositório:
 
-git clone https://github.com/edertaveira/ClimaApp.git
+git clone https://github.com/santanaa05/clima-app.git
 cd weather-app
 
 
