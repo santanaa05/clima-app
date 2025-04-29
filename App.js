@@ -11,7 +11,7 @@ import {
 import { Feather } from "@expo/vector-icons";
 import * as Location from "expo-location";
 
-const API_KEY = "e5efec15b4620d7037c83af20aeee287";
+const API_KEY = "SUA_CHAVE_DE_API_AQUI";
 
 export default function App() {
   const [city, setCity] = useState("Brasilia");
